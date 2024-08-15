@@ -1,0 +1,73 @@
+.main .accordion{
+    padding: 30px 40px;
+}
+.main .qui {
+  margin: 100px;
+}
+.main .img2 {
+  width: 459px;
+}
+.main .nous {
+  margin-left: 5em;
+}
+.main .quvoir {
+    background: #0094da;
+    border-radius: 12px;
+    padding: 10px 20px;
+    font-weight: 500;
+    font-size: 16px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+.main .sommes {
+  font-weight: 700;
+  font-size: 56px;
+}
+.main .lore {
+  font-size: 16px;
+  color: #333b42;
+}
+.main .pxar {
+  justify-content: center;
+  align-items: center;
+  width: 166px;
+  height: 48px;
+  font-weight: 500;
+  font-size: 16px;
+  gap: 4px;
+}
+.main .car {
+  margin-top: 50px;
+  justify-content: space-between;
+}
+.main .a {
+  font-size: 16px;
+  color: #93c01f;
+}
+.main .h3600 {
+  font-weight: 700;
+  font-size: 32px;
+}
+.active .img1{
+  width: 100%;
+}
+
+@media (max-width:800px) {
+  .main .docmanimg{
+    width: 100%;
+  }
+  .main .nous{
+    margin-left: 0px;
+  }
+  .main .qui{
+    margin: 60px 30px;
+  }
+}
+@media (max-width:600px) {
+  .main .docmanimg{
+    width: 100%;
+  }
+  .main .car{
+    flex-wrap: wrap;
+  }
+}

@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Tint&family=Grey+Qo&family=Lexend:wght@100;200;300;400;500;600;700;800;900&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap');
+
+
+.ant-modal .video{
+  width: 100%;
+  border-radius: 20px;
+  margin-top: 30px;
+}
+.about .modal-btn-div{
+  display: flex;
+  margin: 0px auto;
+}
+.about .modle-btn{
+  margin: 40px auto;
+}
+.about .icosf {
+  margin-left: 20px;
+  margin-top: 35px;
+  display: flex;
+  justify-content: center;
+}
+ .ant-modal{
+  width: 100% !important;
+  height: 100%;
+  background-color: transparent;
+}
+.about .accordion-head{
+  padding-bottom: 20px;
+  font-family: "Libre Baskerville", serif;
+}
+.about .accordion{
+  padding: 50px ;
+}
+.about .accordion-button:focus {
+  z-index: 3;
+  border-color: white;
+  outline: 0;
+  box-shadow: none;
+}
+.about .accordion-button{
+  font-size: 19px;
+  font-weight: 700;
+  outline: none;
+}
+.about .logo2 {
+  margin-left: 40px;
+  justify-content: center;
+  display: flex;
+  padding-top: 20px;
+}
+.about .abonnez {
+  margin-top: 30px;
+  margin-left: 20px;
+  font-weight: 700;
+  font-size: 48px;
+  text-align: center;
+  margin-bottom: 40px;
+}
+.icosf .face {
+  margin-right: 1em;
+}
+.about .suivez {
+  margin-right: 1em;
+}
+.about .inp {
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  margin: 0px 10px;
+}
+
+@media (max-width: 600px) {
+  .about .abonnez {
+    margin: 0px !important;
+    padding: 5% 10%;
+    font-size: 35px;
+  }
+}
+@media (min-width: 1165px) {
+  .about .cup2 {
+    display: none;
+  }
+  .about .carousel-cap {
+    position: absolute;
+    right: 15%;
+    bottom: 4rem;
+    left: 5%;
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+    width: 600px;
+  }
+  .about .inp {
+    width: 100% !important;
+    margin-left: 20px;
+  }
+}

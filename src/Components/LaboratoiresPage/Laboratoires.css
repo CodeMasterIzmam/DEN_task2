@@ -1,0 +1,149 @@
+.laboratories .m11 {
+    padding-top: 70px;
+    margin-top: 0px;
+    margin-left: 100px;
+    margin-bottom: 0px;
+    margin-right: 100px;
+    padding-bottom: 30px;
+  }
+  .laboratories .locate{
+    margin-top: 35px;
+    align-items: first baseline;
+  }
+  .laboratories .spvoir {
+    margin-right: 15px;
+  }
+  .laboratories .bdpri {
+    border: 1px solid #0094da;
+    display: flex;
+    justify-content: center;
+    padding: 0.5em 2.8em;
+    font-weight: 500;
+    font-size: 16px;
+    border-radius: 16px;
+    width: 95%;
+  }
+  .laboratories .k55 {
+    font-weight: 400;
+    font-size: 12px;
+  }
+  .laboratories .ey {
+    margin-right: 10px;
+  }
+  .laboratories .m55k {
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  .laboratories .card-text {
+    margin-left: 20px;
+    margin-right: 0px;
+    margin-top: -5vh;
+    font-weight: 400;
+    font-size: 12px;
+  }
+  .laboratories .slick-slide img {
+    display: inline;
+}
+  .laboratories .location{
+    margin-top: -10%;
+  }
+  
+.laboratories .slick-arrow {
+    display: none !important;
+  }
+  .laboratories .oph {
+    font-weight: 400;
+    margin-bottom: 20px;
+    font-size: 12px;
+    color: #65737e;
+  }
+  .laboratories .card {
+    width: 90% !important;
+    border-radius: 17px;
+    box-shadow: 1px 0px 12px 0.5px rgba(0, 0, 0, 0.08);
+  }
+  .laboratories .checkm {
+    position: relative;
+    margin-left: 5px;
+  }
+  .laboratories .card-title {
+    font-weight: 700;
+    font-size: 16px;
+  }
+  .laboratories .eyeico {
+    width: 56px;
+    height: 56px;
+    margin-top: -55px;
+    margin-left: 10px;
+    padding: 0.7em;
+    border-radius: 50%;
+    background: #ffffff;
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.08);
+  }
+  .laboratories .m100 {
+    margin: 0px 100px;
+  }
+  .laboratories .lessthen {
+    padding-right: 5px;
+    margin-right: 5px;
+    margin-top: 5px;
+    margin-left: 4px;
+    padding-left: 5px;
+    padding-bottom: 5px;
+
+  }
+  .laboratories .btnout {
+    text-align: center;
+    margin-left: auto;
+    padding: 1em;
+    justify-content: center;
+  }
+  .laboratories .categ {
+    font-weight: 700;
+    font-size: 56px;
+  }
+  .laboratories .a {
+    font-size: 16px;
+    color: #93c01f;
+  }
+  @media (max-width:1000px) {
+  .laboratories .categ {
+    font-weight: 700;
+    font-size: 48px;
+    align-items: center;
+    justify-content: center !important;
+  
+  }
+  }
+  @media (max-width:600px) {
+    .laboratories .thug{
+      display: block !important;
+    }
+    .laboratories .a{
+      padding-left: 20%;
+    }
+    .laboratories .btnout{
+      padding-left: 20%;
+    }
+  .laboratories .categ{
+    padding-left: 20%;
+  }
+    .laboratories .ories{
+    display: flex;
+    justify-content: center;
+    }
+    .laboratories .m11{
+      margin-left: 3%;
+    }
+    .laboratories .m100{
+      margin: 0% 10%;
+      align-items: center;
+      justify-content: center;
+    }
+    .laboratories .card{
+      width: 100% !important;
+    }
+    .laboratories .locate{
+      margin-top: 50px;
+    }
+  }

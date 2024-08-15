@@ -1,0 +1,95 @@
+.appli {
+    background: #93c01f;
+  }
+.appli .head {
+    margin: 5px 15px;
+  }
+.appli .hand {
+    margin-left: auto;
+  }
+.appli .headicon {
+    margin: 15px;
+    padding-top: 10px;
+  }
+.appli .astore {
+    font-weight: 700;
+    font-size: 32px;
+  }
+  .appli .tele {
+    font-weight: 400;
+    font-size: 12px;
+  }
+.appli .cationn {
+    margin-right: 20px !important;
+    background: #ffffff;
+    border-radius: 12px;
+  }
+.appli .d-flex {
+    display: flex !important;
+    flex-wrap: wrap !important;
+  }
+ .appli .soin {
+    font-size: 16px;
+    margin: 30px 0px;
+  }
+.appli .eya {
+    color: #ffffff;
+    font-weight: 700;
+    font-size: 48px;
+  }
+.appli  .gez {
+    margin-top: 70px;
+    margin-left: 100px;
+  }
+  @media (max-width:1205px) {
+    .hand .handimage{
+      display: none;
+    }
+    .appli .charge{
+      padding-bottom: 2em;
+    }
+  }
+  @media (max-width:600px) {
+  .appli .happle{
+    display: flex;
+    align-items: center;
+    padding: 10%;
+  }
+    .appli .cationn{
+      background: #ffffff;
+      border-radius: 12px;
+      width: 260px;
+      height: 100px;
+      margin-bottom: 20px;
+    }
+    .appli .appleapp {
+      justify-content: center;
+  }
+    .appli .gez{
+      margin-left: 10px !important;
+    }
+    .appli .charge {
+      display: flex !important;
+      flex-wrap: wrap !important;
+      align-items: center;
+    }  
+    .appli .soin{
+      display: none;
+    }
+    .appli .eya{
+      font-size: 40px;
+    }
+   .appli .tele{
+    padding-top: 10px;
+    font-size: 10px;
+   } 
+.appli .astore {
+  font-weight: 700;
+  font-size: 20px;
+}
+  }
+  @media (max-width:735px) {
+    .appli .cationn{
+      margin-top: 20px;
+    }
+  }

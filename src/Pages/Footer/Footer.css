@@ -1,0 +1,111 @@
+
+.blacky .phone{
+    margin-right: 7px;
+  }
+  .blacky .Liens{
+    font-weight: 700;
+  font-size: 16px;
+  color: #FFFFFF;
+  margin-top: 4em;
+  margin-bottom: 25px;
+  }
+  .blacky .email2{
+    background-color: #1c2126;
+    border-radius: 8px;
+    border: 2px solid #333b42;
+    height: 40px ;
+    padding-left: 10px;
+    margin-top: 1em;
+   color: #FFFFFF;
+   width: 100%;
+  }
+  .blacky .droson{
+    text-align: center;
+    justify-content: center;
+    font-weight: 400;
+    font-size: 12px;
+    padding-top: 1em;
+    color: #A7ADBA;
+    padding-bottom: 3em;
+    margin-block-end: 0 !important;
+  }
+  .blacky .hr{
+    height: 1px;
+    border: 1px solid #333B42;
+    margin: 20px 100px;
+  }
+  .blacky .priabo{
+    margin-top: 1em;
+    padding: 0.5em 4.6em;
+    border-radius: 12px;
+    width: 100%;
+  }
+  .blacky .tac{
+    margin-top: 6.7em;
+  }
+  .footer .blacky {
+    background: #1c2126;
+  }
+  .blacky .m100x{
+    margin: 0px 100px;
+  }
+  .blacky a:hover{
+color: white;
+font-weight: 600;
+  }
+  .blacky .propde ,a{
+    color: white;
+  }
+  .blacky .icosf2{
+    margin-bottom: 30px;
+  }
+  .blacky .face2{
+    margin-right: 10px;
+  }
+  .blacky .prektigt{
+    color: #A7ADBA;
+    font-weight: 400;
+    font-size: 12px;
+    margin-top: 2em;
+    margin-block-end: 1em;
+  }
+  .blacky .complogo{
+    margin-top: 4em;
+  }
+  .m100x .droson{
+    margin-block-end: 0em;
+  }
+  .blacky .row{
+    --bs-gutter-x: 0rem;
+  }
+  @media (max-width:600px) {
+    .blacky .Liens{
+      margin-top: 1em;
+    }
+    
+  }
+  @media (max-width:1275px) {
+    .blacky .m100x{
+      margin: 0px 20px;
+    }
+  }
+  @media (max-width:767px) {
+    .blacky .rpm .Liens{
+      width: 100%;
+    }
+    .blacky .email2{
+      width: 100%;
+    }
+    .blacky .priabo{
+      width: 100%;
+    }
+    .blacky .rpm2 .propde{
+      width: 200% !important;
+    }
+    .blacky .rpm2{
+      padding-left: 100%;
+    }
+   .blacky .rpm .propde{
+    width: 150%;
+   }
+  }

@@ -1,0 +1,21 @@
+.navbarMain .navbar-nav{
+    margin-left: auto;
+}
+.navbarMain .navbar-brand{
+    color: white;
+}
+.navbarMain .bgdark{
+    background-color: rgb(72, 71, 71);
+}
+.navbarMain .navbar{
+    padding: 20px 50px;
+}
+.navbarMain  .nav-link{
+    color: white !important;
+}
+.navbar .nav-link :active{
+    font-size: 28px !important;
+}
+.navbar .nav-link :active{
+    font-size: 28px;
+}

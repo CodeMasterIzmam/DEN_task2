@@ -1,0 +1,173 @@
+.login .accuil {
+  margin: 100px 100px 20px 150px;
+}
+.login .current1{
+  border: 0px;
+  background-color: transparent;
+  color: #0094da;
+}
+.creer .maile {
+  margin-bottom: 0vh;
+}
+.accuil .unreer {
+  font-weight: 700;
+  font-size: 64px;
+  color: #1c2126;
+}
+.accuil .compt {
+  margin-top: -3vh;
+  margin-bottom: 30px;
+}
+.creer .vous {
+  font-weight: 400;
+  font-size: 16px;
+}
+.row .pinsb {
+  max-width: 395px;
+  width: 100%;
+  margin-top: 20px;
+  margin-bottom: 2em;
+  border-radius: 8px;
+  background-color: #0094da;
+  border: 0px;
+  color: white;
+  padding: 5px 0px;
+}
+.goologo {
+  text-align: center;
+  justify-content: center;
+  margin-bottom: 40px;
+  margin-top: 20px;
+}
+.goologo .frame {
+  padding-right: 30px;
+}
+a {
+  text-decoration: none;
+}
+.creer .oup {
+  text-align: center;
+  justify-content: center;
+  border-radius: 50%;
+  box-shadow: 2px white;
+  background-color: #ffff;
+  margin-top: -28px;
+  width: 40px;
+  margin-left: 180px;
+  position: relative;
+}
+.creer .hr {
+  margin-bottom: 1em;
+  color: #1c2126 !important;
+  width: 400px;
+}
+.creer .spea {
+  padding-bottom: 20px;
+}
+.spea .ant-input-password {
+  width: 400px;
+}
+.spea .ant-input-affix-wrapper {
+  border-radius: 8px;
+}
+.maile .ant-input {
+  border-radius: 8px;
+}
+.row .jaccep {
+  font-weight: 500;
+  font-size: 14px;
+}
+.login .current {
+  color: #0094da;
+}
+.login .ant-input-password-icon {
+  color: #0094da !important;
+}
+.login .accp {
+  font-weight: 500;
+  font-size: 14px;
+  padding-top: 5px;
+  margin-bottom: 4em;
+}
+.outright .anticon-right {
+  margin: 0px 10px;
+}
+.row{
+  --bs-gutter-x: 0rem;
+}
+@media (max-width: 1075px) {
+  .login .illustration {
+    display: none;
+  }
+  .login .creer{
+    width: 100%;
+  }
+  .login .unreer {
+    text-align: center;
+  }
+  .login .accuil {
+    /* margin: 0px; */
+    padding: 0px 20px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .login .pinsb{
+    padding-left: 0%;
+    padding-right: 0%;
+    width: 100%;
+  }
+  .login .hr{
+    width: 100%;
+  }
+  .login .oup{
+    margin-left: 45%;
+  }
+    .spea .ant-input-password {
+      width: 100% !important;
+    }
+    .creer .ant-space {
+      display: inline-flex;
+      width: 100%;
+    }
+   .creer .jaccep{
+    width: 100%;
+   }
+}
+@media (max-width: 600px) {
+  /* .login .spea{
+    width: 100%;
+  } */
+.login .pinsb{
+  padding-left: 0%;
+  padding-right: 0%;
+  width: 100%;
+}
+.login .hr{
+  width: 100%;
+}
+.login .oup{
+  margin-left: 45%;
+}
+  .spea .ant-input-password {
+    width: 100% !important;
+  }
+  .creer .ant-space {
+    display: inline-flex;
+    width: 100%;
+  }
+ .creer .jaccep{
+  width: 100%;
+ }
+}
+/* @media (max-width:1075px) {
+  .login .illustration{
+    display: none;
+  }
+  .login .creer{
+    align-items: center;
+justify-content: center;
+  }
+  .spea .ant-input-password {
+    width: 150%;
+  }
+} */
